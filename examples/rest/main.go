@@ -1,10 +1,11 @@
 package main
 
 import (
-	"github.com/frankrap/bybit-api/rest"
 	"log"
 	"net/http"
 	"net/url"
+
+	"github.com/TerminusDeus/bybit-api/rest"
 )
 
 // HttpProxy  = "http://127.0.0.1:6152"
